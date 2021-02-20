@@ -4,6 +4,17 @@
 
 Speedy Pizza is a restaurant based in Florence, Italy. Since 1997, the restaurant has relied on a strong, Java-powered PC application to handle food deliveries. I was hired by Speedy Pizza to recreate their software in a more modern and robust way, with a few adjustments and changes. The client needed an app that was similar to what they already had in use, in order to minimise staff re-training. 
 
+## Table of Contents
+* [Technologies](https://github.com/karimafas/speedypizza_web/blob/master/README.md#technologies)
+* [Preview](https://github.com/karimafas/speedypizza_web/blob/master/README.md#preview)
+* [Features](https://github.com/karimafas/speedypizza_web/blob/master/README.md#features)
+  1. [Home](https://github.com/karimafas/speedypizza_web/blob/master/README.md#home)
+  2. [Customer's Details](https://github.com/karimafas/speedypizza_web/blob/master/README.md#customers-details)
+  3. [Order](https://github.com/karimafas/speedypizza_web/blob/master/README.md#order)
+  4. [Review and Print](https://github.com/karimafas/speedypizza_web/blob/master/README.md#review-and-print)
+
+
+
 ## Technologies
 * Flutter 1.25.0-8.3.pre
 * Dart 2.12.0
