@@ -1,16 +1,15 @@
-# speedypizza_web
+# Speedy Pizza Web
 
-A new Flutter project.
 
-## Getting Started
+## Introduction
 
-This project is a starting point for a Flutter application.
+Speedy Pizza is a restaurant and pizzeria located in Florence, Italy – therefore, the interface of this app is in Italian, but I wrote out all documentation in English. Since 1997, the restaurant has relied on a strong, Java-powered PC application to handle food deliveries.
 
-A few resources to get you started if this is your first Flutter project:
+I was hired by Speedy Pizza to recreate their software in a more modern and robust way, with a few adjustments and changes. The client needed an app that was similar to what they already had in use, in order to minimise staff re-training. They needed something that could:
+  • Hold a record of all customers who called in for delivery
+  • Create orders based on their menu and variations
+  • Print a ticket for the kitchen, and one to send with the customer's physical order
+  • Review all orders, edit them, re-print them
+  
+## Features
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
