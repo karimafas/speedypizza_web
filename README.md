@@ -8,10 +8,7 @@ Speedy Pizza is a restaurant based in Florence, Italy. Since 1997, the restauran
 * [Technologies](https://github.com/karimafas/speedypizza_web/blob/master/README.md#technologies)
 * [Preview](https://github.com/karimafas/speedypizza_web/blob/master/README.md#preview)
 * [Features](https://github.com/karimafas/speedypizza_web/blob/master/README.md#features)
-  * [Home](https://github.com/karimafas/speedypizza_web/blob/master/README.md#home)
-  * [Customer's Details](https://github.com/karimafas/speedypizza_web/blob/master/README.md#customers-details)
-  * [Order](https://github.com/karimafas/speedypizza_web/blob/master/README.md#order)
-  * [Review and Print](https://github.com/karimafas/speedypizza_web/blob/master/README.md#review-and-print)
+
 
 
 
@@ -35,6 +32,9 @@ After querying the database by phone number, the app pulls a specific customer's
 The main ListView features the restaurant menu. Items can be chosen by inputting their unique product number (the client's preferred way as this is what they are used to), or by clicking on an item in the ListView. You can then change the quantity, and insert variations by code or by moving to the + tab in the top menu.
 
 ### Review and Print
-On this screen, you are allowed to review your items. You can duplicate, delete or edit variations on any item. You can also go back and change the customers details. Before printing, you will be able to select a delivery time (your current accepted deliveries are also shown in the top left, in order to allow who's taking the order to make an educated decision and spread out deliveries during service).
+On this screen, you are allowed to review your items. You can duplicate, delete or edit variations on any item. You can also go back and change the customer's details. Before printing, you will be able to select a delivery time. Your accepted deliveries are also shown in the top left, in order to allow who's taking the order to make an educated decision and spread out deliveries during service.
+
+### Archive
+All past orders appear on this screen. 
 
 
