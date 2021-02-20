@@ -4,12 +4,6 @@
 
 Speedy Pizza is a restaurant based in Florence, Italy. Since 1997, the restaurant has relied on a strong, Java-powered PC application to handle food deliveries. I was hired by Speedy Pizza to recreate their software in a more modern and robust way, with a few adjustments and changes. The client needed an app that was similar to what they already had in use, in order to minimise staff re-training. 
 
-## Table of Contents
-* [Technologies](https://github.com/karimafas/speedypizza_web/blob/master/README.md#technologies)
-* [Preview](https://github.com/karimafas/speedypizza_web/blob/master/README.md#preview)
-* [Features](https://github.com/karimafas/speedypizza_web/blob/master/README.md#features)
-
-
 ## Built with
 * Flutter
 * Firebase Firestore
@@ -26,6 +20,9 @@ I have deployed an up-to-date version of this project. It's available [here](htt
 * **Review and Print**: duplicate, delete or edit your items, choose a delivery time and print your order.
 * **Archive**: see all past orders, delete, edit or re-print them.
 * **Speedy Pony**: assign a rider to each order, and pay riders fairly at the end of the shift.
+
+## Credits
+Karim Afas – karimafas@gmail.com
 
 
 
