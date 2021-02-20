@@ -8,10 +8,10 @@ Speedy Pizza is a restaurant based in Florence, Italy. Since 1997, the restauran
 * [Technologies](https://github.com/karimafas/speedypizza_web/blob/master/README.md#technologies)
 * [Preview](https://github.com/karimafas/speedypizza_web/blob/master/README.md#preview)
 * [Features](https://github.com/karimafas/speedypizza_web/blob/master/README.md#features)
-  1. [Home](https://github.com/karimafas/speedypizza_web/blob/master/README.md#home)
-  2. [Customer's Details](https://github.com/karimafas/speedypizza_web/blob/master/README.md#customers-details)
-  3. [Order](https://github.com/karimafas/speedypizza_web/blob/master/README.md#order)
-  4. [Review and Print](https://github.com/karimafas/speedypizza_web/blob/master/README.md#review-and-print)
+  * [Home](https://github.com/karimafas/speedypizza_web/blob/master/README.md#home)
+  * [Customer's Details](https://github.com/karimafas/speedypizza_web/blob/master/README.md#customers-details)
+  * [Order](https://github.com/karimafas/speedypizza_web/blob/master/README.md#order)
+  * [Review and Print](https://github.com/karimafas/speedypizza_web/blob/master/README.md#review-and-print)
 
 
 
